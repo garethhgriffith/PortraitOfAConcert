@@ -4,6 +4,9 @@
 
 ![Screenshot](https://raw.githubusercontent.com/garethhgriffith/README_IMAGES/master/dv2.JPG "Screenshot")
 
+## Link to full write up
+- [Portrait of a Concert](http://vtechworks.lib.vt.edu/handle/10919/49268)
+
 ## Usage
 - This project was built with Processing 2.2.1 and can be dowloaded here: [Processing](https://processing.org/)
 - Load Concert.pde and run
